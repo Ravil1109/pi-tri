@@ -6,6 +6,7 @@ public class PiTri {
             return;
         }
 
+
         if(args.length == 1){ //вывести N троек
             int N = Integer.parseInt(args[0]);
             int a = 1;
